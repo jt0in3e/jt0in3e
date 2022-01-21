@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+I've just removed comment tags from the below code/text %)
+and ... >
+
+
 **jt0in3e/jt0in3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
